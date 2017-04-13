@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="vuforia_logo_image_target" size="5.000000 3.843416" />
+    <ImageTarget name="maze_image_target" size="5.000000 5.000000" />
+    <ImageTarget name="circle_image_target" size="5.000000 4.542936" />
+    <ImageTarget name="road" size="5.000000 3.500000" />
+    <ImageTarget name="woodchips_imageTarget" size="5.000000 3.499222" />
+    <ImageTarget name="vuforia_stones" size="50.000000 35.000000" />
+  </Tracking>
+</QCARConfig>

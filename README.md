@@ -16,8 +16,8 @@ If you have ever built any unity3d applications the process is really simple.
 
 Tutorial at [https://library.vuforia.com/tutorials](https://library.vuforia.com/tutorials).
 
-<img src="/mobile_ar/mobile_ar_planets_00.PNG" width="400"/>
-<img src="/mobile_ar/mobile_ar_planets_01.PNG" width="400"/>
-<img src="/mobile_ar/mobile_ar_maze_00.PNG" width="400" height="400"/>
-<img src="/mobile_ar/mobile_ar_skeleton_00.PNG" width="400"/>
-<img src="/mobile_ar/mobile_ar_office_00.PNG" width="400"/>
+<img src="/mobile_ar/mobile_ar_planets_00.png" width="400"/>
+<img src="/mobile_ar/mobile_ar_planets_01.png" width="400"/>
+<img src="/mobile_ar/mobile_ar_maze_00.png" width="400" height="400"/>
+<img src="/mobile_ar/mobile_ar_skeleton_00.png" width="400"/>
+<img src="/mobile_ar/mobile_ar_office_00.png" width="400"/>
